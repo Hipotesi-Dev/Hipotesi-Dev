@@ -1,4 +1,6 @@
-![Hipotesi Banner](https://pbs.twimg.com/profile_banners/1454111910098505735/1635786969/600x200)
+<div align="center">
+<img width="100%" height = "250px" src="https://pbs.twimg.com/profile_banners/1454111910098505735/1635786969/600x200" alt="cover" />
+</div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
