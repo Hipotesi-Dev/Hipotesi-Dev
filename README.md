@@ -1,7 +1,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hipotesi-Dev.Hipotesi-Dev)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=eduoliihezz.eduoliihezz)
 
 </p>
 <div size='20px'> Hi! My name is Edu Olivares. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -33,7 +33,7 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/Hipotesi-Dev?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/eduoliihezz?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 
 
