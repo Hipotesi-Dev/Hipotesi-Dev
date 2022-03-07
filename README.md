@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edu Olivares</h1>
 <h3 align="center">Software Developer Coded in Badalona. Always striving to create innovative ideas and visions, always based on contributions and teamwork.</h3>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=eduoliihezz.eduoliihezz)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduoliihezz&label=Profile%20views&color=0e75b6&style=flat" alt="eduoliihezz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hipotesi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hipotesi_dev?logo=twitter&style=for-the-badge" alt="hipotesi_dev" /></a> </p>
