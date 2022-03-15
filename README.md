@@ -4,11 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/hipotesi_dev" target="blank"><img src="https://img.shields.io/twitter/follow/hipotesi_dev?logo=twitter&style=for-the-badge" alt="hipotesi_dev" /></a> </p>
 
-<p align="left">
-    <img src="https://dcbadge.vercel.app/api/shield/526747520802750467?style=social"/>
-  </a>
-</p>
-
 - 🔭 I’m currently working on [BinCat Token System](https://github.com/eduoliihezz/BinCat)
 
 - 🌱 I’m currently learning **Python, and JavaScript**
