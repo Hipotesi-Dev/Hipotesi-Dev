@@ -1,6 +1,6 @@
 
 # 💫About Me :
-Hi There !! My name is ✨ Edu Olivares ✨ I'm a young developer that 💖 to learn and improve myself every day. Python is my principal coding language, although I'm learning JavaScript and Web Development (HTML & CSS). Every time I have, I'm learning something. I love to improve my old codes, to learn new and cool things to make them better.
+Hi There !! My name is ✨ Edu Olivares ✨ I'm a young developer that Love 💖 to learn and improve myself every day. Python is my principal coding language, although I'm learning JavaScript and Web Development (HTML & CSS). Every time I have, I'm learning something. I love to improve my old codes, to learn new and cool things to make them better.
 
 Always striving to create innovative ideas and visions, always based on contributions and teamwork. 👨‍💻🤝
 
